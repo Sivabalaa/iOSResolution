@@ -1,6 +1,6 @@
 | Device                                                                                   | Portrait Pixels | Landscape Pixels | Portrait Logical Resolution | Landscape Logical Resolution |
 |------------------------------------------------------------------------------------------|-----------------|------------------|-----------------------------|------------------------------|
-| 1. iPhone (Legacy) & iPod Touch 1st, 2nd and 3rd Generation                              | 320 x 480 px    | 480 x 320 px     | 320 x 480 points            | 480 x 320 points             |
+| iPhone (Legacy) & iPod Touch 1st, 2nd and 3rd Generation                              | 320 x 480 px    | 480 x 320 px     | 320 x 480 points            | 480 x 320 points             |
 | iPhone 3.5-inch (iPhone 4, iPhone 4S)                                                    | 640 x 960 px    | 960 x 640 px     | 320 x 480 points            | 480 x 320 points             |
 | iPhone 4-inch (iPhone 5, iPhone 5S, iPhone 5C, iPhone SE)                                | 640 x 1136 px   | 1136 x 640 px    | 320 x 568 points            | 568 x 320 points             |
 | iPhone 4.7-inch (iPhone 6, iPhone 6S, iPhone 7, iPhone 8)                                | 750 x 1334 px   | 1334 x 750 px    | 375 x 667 points            | 667 x 375 points             |
