@@ -11,7 +11,6 @@
 | iPhone 6.1-inch (iPhone XR, iPhone 11)                                                   | 828 x 1792 px   | 1792 x 828 px    | 414 x 896 points            | 896 x 414 points             |
 | iPhone 6.5-inch (iPhone XS Max, iPhone 11 Pro Max)                                       | 1242 x 2688 px  | 2688 x 1242 px   | 414 x 896 points            | 896 x 414 points             |
 
-
 ## iPad:
 
 |                                                         Device                                                        | Portrait Pixels | Landscape Pixels | Portrait Logical Resolution | Landscape Logical Resolution |
