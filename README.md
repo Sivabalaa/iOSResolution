@@ -1,37 +1,11 @@
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/Sivabalaa/iOSResolution/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Sivabalaa/iOSResolution/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+| Device                                                                                   | Portrait Pixels | Landscape Pixels | Portrait Logical Resolution | Landscape Logical Resolution |
+|------------------------------------------------------------------------------------------|-----------------|------------------|-----------------------------|------------------------------|
+| 1. iPhone (Legacy) & iPod Touch 1st, 2nd and 3rd Generation                              | 320 x 480 px    | 480 x 320 px     | 320 x 480 points            | 480 x 320 points             |
+| iPhone 3.5-inch (iPhone 4, iPhone 4S)                                                    | 640 x 960 px    | 960 x 640 px     | 320 x 480 points            | 480 x 320 points             |
+| iPhone 4-inch (iPhone 5, iPhone 5S, iPhone 5C, iPhone SE)                                | 640 x 1136 px   | 1136 x 640 px    | 320 x 568 points            | 568 x 320 points             |
+| iPhone 4.7-inch (iPhone 6, iPhone 6S, iPhone 7, iPhone 8)                                | 750 x 1334 px   | 1334 x 750 px    | 375 x 667 points            | 667 x 375 points             |
+| iPhone 5.5-inch (Virtual) (iPhone 6 Plus, iPhone 6S Plus, iPhone 7 Plus, iPhone 8 Plus)  | 1242 x 2208 px  | 2208 x 1242 px   | 414 x 736 points            | 736 x 414 points             |
+| iPhone 5.5-inch (Physical) (iPhone 6 Plus, iPhone 6S Plus, iPhone 7 Plus, iPhone 8 Plus) | 1080 x 1920 px  | 1920 x 1080 px   | 414 x 736 points            | 736 x 414 points             |
+| iPhone 5.8-inch (iPhone X, iPhone XS, iPhone 11 Pro)                                     | 1125 x 2436 px  | 2436 x 1125 px   | 375 x 812 points            | 812 x 375 points             |
+| iPhone 6.1-inch (iPhone XR, iPhone 11)                                                   | 828 x 1792 px   | 1792 x 828 px    | 414 x 896 points            | 896 x 414 points             |
+| iPhone 6.5-inch (iPhone XS Max, iPhone 11 Pro Max)                                       | 1242 x 2688 px  | 2688 x 1242 px   | 414 x 896 points            | 896 x 414 points             |
